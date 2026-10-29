@@ -159,7 +159,7 @@ class _HalamanProdukState extends State<HalamanProduk> {
                       style: const TextStyle(fontWeight: FontWeight.bold),
                     );
                   },
-                ),
+                ),  
 
                 const SizedBox(height: 8),
 
